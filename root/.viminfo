@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1678725418,,"wq"
+|2,0,1678726036,,"wq"
 :q!
 |2,0,1678724914,,"q!"
 :q
@@ -44,37 +44,45 @@ $
 
 # File marks:
 '0  1  9  /.git/COMMIT_EDITMSG
-|4,48,1,9,1678725418,"/.git/COMMIT_EDITMSG"
-'1  1  9  /alx-system_engineering-devops/.git/COMMIT_EDITMSG
-|4,49,1,9,1678725288,"/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
-'2  1  9  /.git/COMMIT_EDITMSG
-|4,50,1,9,1678724941,"/.git/COMMIT_EDITMSG"
-'3  37  2  /.git/COMMIT_EDITMSG
-|4,51,37,2,1678724914,"/.git/COMMIT_EDITMSG"
-'4  37  2  /.git/COMMIT_EDITMSG
-|4,52,37,2,1678724914,"/.git/COMMIT_EDITMSG"
+|4,48,1,9,1678726036,"/.git/COMMIT_EDITMSG"
+'1  1  9  /.git/COMMIT_EDITMSG
+|4,49,1,9,1678725418,"/.git/COMMIT_EDITMSG"
+'2  1  9  /alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,50,1,9,1678725288,"/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+'3  1  9  /.git/COMMIT_EDITMSG
+|4,51,1,9,1678724941,"/.git/COMMIT_EDITMSG"
+'4  1  9  /.git/COMMIT_EDITMSG
+|4,52,1,9,1678724941,"/.git/COMMIT_EDITMSG"
 '5  37  2  /.git/COMMIT_EDITMSG
 |4,53,37,2,1678724914,"/.git/COMMIT_EDITMSG"
 '6  37  2  /.git/COMMIT_EDITMSG
 |4,54,37,2,1678724914,"/.git/COMMIT_EDITMSG"
-'7  1  9  /.git/COMMIT_EDITMSG
-|4,55,1,9,1678707910,"/.git/COMMIT_EDITMSG"
-'8  1  9  /.git/COMMIT_EDITMSG
-|4,56,1,9,1678707910,"/.git/COMMIT_EDITMSG"
-'9  1  9  /.git/COMMIT_EDITMSG
-|4,57,1,9,1678707910,"/.git/COMMIT_EDITMSG"
+'7  37  2  /.git/COMMIT_EDITMSG
+|4,55,37,2,1678724914,"/.git/COMMIT_EDITMSG"
+'8  37  2  /.git/COMMIT_EDITMSG
+|4,56,37,2,1678724914,"/.git/COMMIT_EDITMSG"
+'9  37  2  /.git/COMMIT_EDITMSG
+|4,57,37,2,1678724914,"/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  9  /.git/COMMIT_EDITMSG
+|4,39,1,9,1678726036,"/.git/COMMIT_EDITMSG"
 -'  1  9  /.git/COMMIT_EDITMSG
 |4,39,1,9,1678725418,"/.git/COMMIT_EDITMSG"
 -'  1  9  /alx-system_engineering-devops/.git/COMMIT_EDITMSG
 |4,39,1,9,1678725288,"/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
 -'  1  9  /alx-system_engineering-devops/.git/COMMIT_EDITMSG
 |4,39,1,9,1678725288,"/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  9  /alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,9,1678725288,"/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
+-'  1  9  /alx-system_engineering-devops/.git/COMMIT_EDITMSG
+|4,39,1,9,1678725288,"/alx-system_engineering-devops/.git/COMMIT_EDITMSG"
 -'  1  9  /.git/COMMIT_EDITMSG
 |4,39,1,9,1678724941,"/.git/COMMIT_EDITMSG"
 -'  1  9  /.git/COMMIT_EDITMSG
 |4,39,1,9,1678724941,"/.git/COMMIT_EDITMSG"
+-'  37  2  /.git/COMMIT_EDITMSG
+|4,39,37,2,1678724914,"/.git/COMMIT_EDITMSG"
 -'  37  2  /.git/COMMIT_EDITMSG
 |4,39,37,2,1678724914,"/.git/COMMIT_EDITMSG"
 -'  37  2  /.git/COMMIT_EDITMSG
@@ -225,51 +233,43 @@ $
 |4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 -'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
 |4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
--'  1  12  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
-|4,39,1,12,1678706946,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  11  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,11,1678706993,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 
 # History of marks within files (newest to oldest):
 
 > /.git/COMMIT_EDITMSG
-	*	1678725416	0
+	*	1678726034	0
 	"	1	9
 	^	1	10
 	.	1	9
